@@ -253,14 +253,6 @@ If you use this code in your research, please cite:
 
 ---
 
-## Authors
-
-- **Afif El Bsat** — American University of Beirut
-- **Dr. Ammar Mohanna** — American University of Beirut  
-- **Dr. Bilal Kaddouh** — American University of Beirut
-
----
-
 ## License
 
 MIT License — see [LICENSE](LICENSE) for details.
